@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khaled
 - 👀 I’m interested in data analytics & data science
 - 🌱 I’m currently learning how get a job in data field
-- 💞️ I’m looking to collaborate on data projects 
+- 💞️ I’m looking to collaborate on data projects/New Data opportunities" Instership, Entry level job..."
 - 📫 You can reach me via : [Linkedin](https://www.linkedin.com/in/khaled-b-710922198/) or [Discord](https://www.discordapp.com/users/948998900491096214)
  
 
