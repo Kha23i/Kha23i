@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khaled
 - 👀 I’m interested in Data analytics(Preferred) & Data science.
-- 🌱 I’m currently learning how get a job in data field
+- 🌱 I’m currently starting a data carrer as Freelancer.
 - 💞️ I’m looking to collaborate on data projects/New Data opportunities". 
 - 📫 You can reach me via : [Linkedin](https://www.linkedin.com/in/khaled-boudjedri/)
  
